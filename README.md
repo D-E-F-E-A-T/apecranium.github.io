@@ -1,1 +1,1 @@
-# www.ryanwildes.com
+# ryan wildes dot com
