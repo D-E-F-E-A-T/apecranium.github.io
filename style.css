@@ -1,6 +1,29 @@
 body {
-  color: #008080;
-  background-color: #FF7F50;
+  color: rgb(144, 194, 185);
+  background-color: rgb(109, 94, 72);
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  color: rgb(190, 139, 169);
+  font-size: 80px;
+}
+
+a {
+  color: rgb(236, 146, 86);
+}
+
+a:focus, a:hover {
+  color: rgb(96, 95, 161);
+}
+
+footer {
+  font-size: 12px;
+  position: absolute;
+  bottom: 0;
+}
+
+img {
+  float: right;
 }
